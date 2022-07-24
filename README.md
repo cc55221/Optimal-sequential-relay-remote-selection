@@ -17,6 +17,3 @@ Run `paper_tau.py` to get the evaluation result of the detection time.
 Che Chen
 
 cc5551@foxmail.com
-
-Key Laboratory of Data Science and Intelligence Application, Fujian Province University,  School of Computer Sciences, Minnan Normal University, Zhangzhou, China
-
